@@ -1,4 +1,5 @@
-#validate sudoku through java: input as a text file
+#validate_sudoku_through_java: input as a text file
+
 this code checks sudoku puzzle for correctness 
 it checks by follwing method  
 1)by reading suduku boxes (horizontal - vertical -squares) as array []
